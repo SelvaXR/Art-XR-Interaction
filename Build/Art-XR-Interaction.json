@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ArtXR",
+"productVersion": "0.1",
+"dataUrl": "Art-XR-Interaction.data.unityweb",
+"wasmCodeUrl": "Art-XR-Interaction.wasm.code.unityweb",
+"wasmFrameworkUrl": "Art-XR-Interaction.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
